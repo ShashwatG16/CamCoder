@@ -35,7 +35,6 @@ const upload = multer({
   fileFilter: function (req, file, cb) {
     checkFileType(file, cb);
   },
-  // limits: limits,
 });
 
 router.post("/", upload.single("image"), (req, res) => {
