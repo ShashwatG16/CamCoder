@@ -81,3 +81,11 @@ Explore the platform live to experience its features firsthand.
 5. **Start FrontEnd**
    ```bash
    cd client && npm run start
+## 🤝 Contribution
+Contributions are welcome!
+
+- Fork the repository.
+- Create a feature branch.
+- Make changes and submit a pull request.
+
+Crafted with ❤️ by Shashwat Kumar Gautam.
