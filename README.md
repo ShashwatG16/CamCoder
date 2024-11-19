@@ -31,7 +31,7 @@ Explore the platform live to experience its features firsthand.
 ## 📸 Screenshots  
 
 ### Home Screen  
-![Home Screen]<img width="1280" alt="Screenshot 2023-07-29 005702" src="https://github.com/ShashwatG16/CamCoder/assets/84587801/cc6429f4-b330-4010-8f22-f01da2b7a1f2"> 
+[Home Screen]<img width="1280" alt="Screenshot 2023-07-29 005702" src="https://github.com/ShashwatG16/CamCoder/assets/84587801/cc6429f4-b330-4010-8f22-f01da2b7a1f2"> 
 
 ### User PhotoStream  
 ![PhotoStream](https://github.com/ShashwatG16/CamCoder/assets/84587801/e2668b98-d9da-433a-ab62-e34fdf352287)  
